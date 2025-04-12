@@ -1,16 +1,16 @@
-🛒 Amazon Clone
-This project is a functional clone of the Amazon e-commerce platform, developed as a learning exercise to practice web development skills. It replicates core features such as product browsing, cart functionality, and user authentication in a simplified manner.
+Amazon Clone
+This is a simplified clone of the Amazon e-commerce platform, developed as part of a web development learning project. It replicates basic features such as product browsing, shopping cart functionality, and user authentication.
 
-📌 Key Features
-User Registration and Login
+Features
+User registration and login
 
-Product Listing Page
+Product listing page
 
-Add to Cart / Remove from Cart Functionality
+Add to cart and remove from cart
 
-Checkout Page
+Checkout functionality
 
-Responsive and Mobile-Friendly Layout
+Responsive design for mobile and desktop
 
-🛠️ Technologies Used
+Technologies Used
 Frontend: HTML And CSS
